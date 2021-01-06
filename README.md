@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Qingyuan Zhang's User Page
 
-You can use the [editor on GitHub](https://github.com/gtz05050708/gtz05050708.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About Me
+My Linkedin Page is [here](https://www.linkedin.com/in/qingyuan-zhang-4935a0173/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[My resume](docs/Qingyuan_Zhang_Resume.docx)
 
-### Markdown
+### Known Programming Language:
+- Python
+- Java
+- C
+- C++
+- C#
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*My favorite programming language is Python*
 
-```markdown
-Syntax highlighted code block
+### Favorite Quote
+In the words of Mark Twain:
+> The man who does not read has no advantage over the man who cannot read.
 
-# Header 1
-## Header 2
-### Header 3
+## Programming Joke
+A QA engineer walk into the bar...
 
-- Bulleted
-- List
+Then he orders 0 beers;
 
-1. Numbered
-2. List
+Then he orders 999999999999 beers;
 
-**Bold** and _Italic_ and `Code` text
+Then he orders 1 beer;
 
-[Link](url) and ![Image](src)
-```
+Then he orders nothing;
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Then he orders -1 beers;
 
-### Jekyll Themes
+Then he orders `NULL` beers;
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gtz05050708/gtz05050708.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Then he orders asnwikfjsdf;
 
-### Support or Contact
+Then he orders a `<script>give_me_your_credit_card()</script>`;
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Finally, the QA engineer leaves without paying, comes back, and asks for the tab.
+
+Satisfied, the QA engineer walks out of the bar.
+
+A customer walks in to the bar and orders a steak. 
+
+`<Exception Encountered>`
+
+## Quarter's Plan
+- [x] Keppking up with classes
+- [ ] Learn about CARLA
+
+
+
+
+
+
