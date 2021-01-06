@@ -1,9 +1,9 @@
 # Qingyuan Zhang's User Page
-
+![image](files/myPortrait.jpg)
 ## About Me
 My Linkedin Page is [here](https://www.linkedin.com/in/qingyuan-zhang-4935a0173/).
 
-[My resume](docs/Qingyuan_Zhang_Resume.docx)
+[My resume](files/Qingyuan_Zhang_Resume.docx)
 
 ### Known Programming Language:
 - Python
