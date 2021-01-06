@@ -1,6 +1,8 @@
 # Qingyuan Zhang's User Page
 ![image](files/myPortrait.jpg)
 ## About Me
+3rd year undergraduate Computer Engineering student at **University of California, San Diego**.
+
 My Linkedin Page is [here](https://www.linkedin.com/in/qingyuan-zhang-4935a0173/).
 
 [My resume](files/Qingyuan_Zhang_Resume.docx)
